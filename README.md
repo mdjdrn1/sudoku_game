@@ -7,7 +7,7 @@ App is using C++ and Visual C++ for GUI.
 
 
 
-Created in April 2016 for Programming Methods at Computer Science in Cracow University of Technology.
+_Created in April 2016 for Programming Methods at Computer Science in Cracow University of Technology._
 
 ***Screenshots from the game.***
 
